@@ -1,0 +1,9 @@
+Employed MapBox API to generate streetmap of DC to visualize one year's MPD crime alerts following the high-publicity mass shooting on R Street in June. 
+
+The project was started with the objective of mapping the locations of incidents around the city that are tweeted out by MPD.
+
+Scraped MPD tweets with keyword "alert" using snscrape package.
+
+Used GEOJSON as mapping format. Used JS to mark incident locations as Twitter-blue circles.
+
+Failed attempt at making the blue circles bird icons.

@@ -1,0 +1,3 @@
+First outside of class scraping attempt. Used in-class methodology.
+
+Searched for tag "href" and downloaded associated PDF file to set file path.

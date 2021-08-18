@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>multiple_shootings</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>James Beckham, 69, of Suitland, MD</name>
+      <description>Shot on August 7, 2021 on the 200 block of 49th St, SE.</description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          -76.932688,38.8870057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kendall Brown, 20, of Hyattsville, MD</name>
+      <description>Shot on August 7, 2021 on the 3000 block of Nelson Place, SE.</description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9645127,38.8755577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juwaun Williams, 20, of Southeast DC</name>
+      <description>Shot on August 7, 2021 on the 600 block of 53rd St, SW.</description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9268955,38.8813141,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tariq Riley & Jovan Hill, Jr., 19 & 22, of Northwest DC]]></name>
+      <description>Double homicide on July 25, 2021 on the 100 block of Q St, NW.</description>
+      <styleUrl>#icon-1899-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0450042,38.9111395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kevin Sanders, 25, of Fort Washington, MD</name>
+      <description>Shot on July 21, 2021 on the 2500 block of Elvans Rd, SE</description>
+      <styleUrl>#icon-1899-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9889852,38.8542223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malik Mack, 25, of District Heights, MD</name>
+      <description>Shot on July 21, 2021 on the 3500 block of Jay St, NE.</description>
+      <styleUrl>#icon-1899-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9493501,38.9059576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kewionee Wilson, 28, of Oxon Hill, MD</name>
+      <description>Shot on July 21, 2021 on the 1400 block of V St, NW.</description>
+      <styleUrl>#icon-1899-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0319607,38.9181008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malcolm Johnson, 27, of Southeast DC</name>
+      <description>Shot on July 21, 2021 on the 2200 block of Martin Luther King, Jr. Ave, SE.</description>
+      <styleUrl>#icon-1899-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9895751,38.8647382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosendo Miller, 21, of Northwest DC</name>
+      <description>Shot on July 2, 2021 on the 1300 block of Brentwood Rd, NE.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9858221,38.92511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trecomey Logan, 38, of Stafford, VA</name>
+      <description>Shot on July 2, 2021 on the 1400 block of Smith Pl, SE.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9843966,38.8449357,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jeremy Black, 53, of Takoma Park, MD</name>
+      <description>Shot on June 29, 2021 on the 1400 block of R St, NW.</description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0332819,38.9125557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ranel Marshall, 21, of Camp Springs, MD</name>
+      <description>Shot on June 29, 2021 on the 4000 block of Alabama Ave, SE.</description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9469842,38.8701183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenneth Cherry, 20, of Northeast DC</name>
+      <description>Shot on June 29, 2021 on the 3800 block of Halley Terrace, SE.</description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0071333,38.8352288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everett Faison, 42, of Southwest DC</name>
+      <description>Shot on June 18, 2021 on the Unit block of Galveston Pl, SE.</description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9994152,38.824552,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Benson Thorne, Sr. & Pierre Turnage, 52 & 40, of Northwest DC]]></name>
+      <description>Double homicide on June 18, 2021 on the 100 block of Kennedy St, NW.</description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0118696,38.9563838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delonte Johnson, 28, of Southeast DC</name>
+      <description>Shot on June 11, 2021 on the 4600 block of Hillside Rd, SE.</description>
+      <styleUrl>#icon-1899-795548</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9338885,38.8767122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Isaac Aull, Jr., 30, of Northeast DC</name>
+      <description>Shot on June 11, 2021 on the 1600 block of Franklin St, NE.</description>
+      <styleUrl>#icon-1899-795548</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9812952,38.9257629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mitchell Smith, 50</name>
+      <description>700 16th St NE, Washington, DC 20002</description>
+      <styleUrl>#icon-1899-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9820264,38.8986351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferrell Leonard Taylor, 43, of NE</name>
+      <description>2200 13th St NE</description>
+      <styleUrl>#icon-1899-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9870664,38.9193451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tony Bernard Jackson, 51</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9150192,38.895818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joseph Ogundoju, 46</name>
+      <description>1600 block 17th st, SE</description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          -76.979906,38.8707401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
